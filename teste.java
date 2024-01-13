@@ -29,5 +29,8 @@ public class teste {
                 x = input.nextInt();
             }
         }
+        if (x == n) {
+            System.out.println("You found it. Congrats!");
+        }
     }
 }
